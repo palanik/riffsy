@@ -1,0 +1,41 @@
+{
+  "name": "riffsy",
+  "version": "0.1.0",
+  "description": "Wrapper for Riffsy API",
+  "homepage": "https://github.com/wrapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/palanik/riffsy.git"
+  },
+  "keywords": [
+    "riffsy",
+    "wrapi",
+    "REST",
+    "API",
+    "api wrapper",
+    "riffsy-api",
+    "riffsy-web-api",
+    "riffsy wrapper"
+  ],
+  "author": "palanik",
+  "contributors": [
+    "N. Palani Kumanan"
+  ],
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
+  "bugs": {
+    "url": "https://github.com/palanik/riffsy/issues"
+  },
+  "dependencies": {
+    "wrapi": "^0.1.7"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  }
+}

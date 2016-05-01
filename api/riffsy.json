@@ -1,0 +1,22 @@
+{
+	"search": {
+		"method": "GET",
+		"path": "search"
+	},
+	"tags": {
+		"method": "GET",
+		"path": "tags"
+	},
+	"trending": {
+		"method": "GET",
+		"path": "trending"
+	},
+	"music": {
+		"method": "GET",
+		"path": "music"
+	},
+	"riffs": {
+		"method": "GET",
+		"path": "music"
+	}
+}
